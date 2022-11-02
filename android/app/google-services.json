@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048537471388",
+    "project_id": "shareflutter-7372e",
+    "storage_bucket": "shareflutter-7372e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048537471388:android:0af4e65436622bd6e6d059",
+        "android_client_info": {
+          "package_name": "com.example.share_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048537471388-ccu5bm3to5pkj67isfj2forpqfq2etpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1F_Tf6S3lC2WlKRBtvxCR_NYQtSWc9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048537471388-ccu5bm3to5pkj67isfj2forpqfq2etpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
